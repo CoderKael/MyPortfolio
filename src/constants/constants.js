@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'My CodePen',
     description: "My CodePen where I have some CSS effects and other Microservices.",
-      image: '/images/3.jpg',
+      image: '/images/3.png',
       tags: ['CSS', 'MicroServices'],
     source: 'https://codepen.io/coderkael',
     visit: 'https://codepen.io/coderkael',
