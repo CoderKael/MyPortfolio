@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Social Media TikTok clone',
+    title: 'Social Media Clone',
     description:"Using NextJs with TypeScript, Tailwind and SanityDb to create a TikTok clone social media with Google OAuth accounts.",
     image: '/images/2.png',
     tags: ['TypeScript', 'Tailwind', 'Zustand', 'NextJs', 'Sanity'],
