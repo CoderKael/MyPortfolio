@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['NextJs', 'Sanity', 'React', 'CSS', 'JavaScript', 'Stripe'],
     source: 'https://github.com/CoderKael/ecom',
-    visit: 'https://ecom-t3c6.vercel.app',
+    visit: 'https://ecomfinal.vercel.app',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['TypeScript', 'Tailwind', 'Zustand', 'NextJs', 'Sanity'],
     source: 'https://github.com/CoderKael/TikTok-Clone',
-    visit: 'https://tik-tok-clone-b52x.vercel.app',
+    visit: 'https://tik-tok-clonefinal.vercel.app',
     id: 1,
   },
   {
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'GraphCMS Blog',
     description: "Blog using NextJs, GraphCMS, Tailwind.",
-      image: '/images/3.png',
+      image: '/images/4.png',
       tags: ['Tailwind', 'JavaScript', 'NextJs', 'GraphCMS'],
     source: 'https://github.com/CoderKael/graphcmsBlog',
     visit: '/',
