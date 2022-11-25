@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://codepen.io/coderkael',
     id: 2,
   },
+  {
+    title: 'GraphCMS Blog',
+    description: "Blog using NextJs, GraphCMS, Tailwind.",
+      image: '/images/3.png',
+      tags: ['Tailwind', 'JavaScript', 'NextJs', 'GraphCMS'],
+    source: 'https://github.com/CoderKael/graphcmsBlog',
+    visit: '/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
