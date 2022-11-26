@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'GraphCMS Blog',
-    description: "Blog using NextJs, GraphCMS, Tailwind.",
+    description: "Blog using NextJs, GraphCMS, Tailwind (Not yet deployed).",
       image: '/images/4.png',
       tags: ['Tailwind', 'JavaScript', 'NextJs', 'GraphCMS'],
     source: 'https://github.com/CoderKael/graphcmsBlog',
