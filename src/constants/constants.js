@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'My CodePen',
+    description: "My CodePen where I have some CSS effects and other Microservices.",
+      image: '/images/3.png',
+      tags: ['CSS', 'MicroServices'],
+    source: 'https://codepen.io/coderkael',
+    visit: 'https://codepen.io/coderkael',
+    id: 0,
+  },
+  {
     title: 'ECOM Website',
     description: "Using NextJs with Javascript and SanityDb to create a FullStack ecommerce website with Stripe payments.",
       image: '/images/1.png',
       tags: ['NextJs', 'Sanity', 'React', 'CSS', 'JavaScript', 'Stripe'],
     source: 'https://github.com/CoderKael/ecom',
     visit: 'https://ecomfinal.vercel.app',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Social Media Clone',
@@ -15,15 +24,6 @@ export const projects = [
     tags: ['TypeScript', 'Tailwind', 'Zustand', 'NextJs', 'Sanity'],
     source: 'https://github.com/CoderKael/TikTok-Clone',
     visit: 'https://tik-tok-clonefinal.vercel.app',
-    id: 1,
-  },
-  {
-    title: 'My CodePen',
-    description: "My CodePen where I have some CSS effects and other Microservices.",
-      image: '/images/3.png',
-      tags: ['CSS', 'MicroServices'],
-    source: 'https://codepen.io/coderkael',
-    visit: 'https://codepen.io/coderkael',
     id: 2,
   },
   {
