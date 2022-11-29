@@ -35,6 +35,15 @@ export const projects = [
     visit: '/',
     id: 3,
   },
+  {
+    title: 'Metaversus',
+    description: "Modern website with animations using framer-motion.",
+      image: '/images/5.png',
+      tags: ['Tailwind', 'JavaScript', 'NextJs', 'Framer-Motion'],
+    source: 'https://github.com/CoderKael/metaversus',
+    visit: 'https://metaversus-swart.vercel.app',
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
