@@ -44,6 +44,15 @@ export const projects = [
     visit: 'https://metaversus-swart.vercel.app',
     id: 4,
   },
+  {
+    title: 'Share Me',
+    description: "Image sharing social media.",
+      image: '/images/6.png',
+      tags: ['Tailwind', 'JavaScript', 'ReactJs', 'Sanity', 'GoogleOAuth'],
+    source: '/',
+    visit: 'https://sharemefinal.netlify.app',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
